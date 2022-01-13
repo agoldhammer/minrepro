@@ -22,3 +22,6 @@ pom.xml.asc
 package-lock.json
 .lsp/
 .clj-kondo/
+output.calva-repl
+out/
+

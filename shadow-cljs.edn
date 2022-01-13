@@ -8,4 +8,7 @@
  []
 
  :builds
- {}}
+ {:script
+  {:target :node-script
+   :main demo/-main
+   :output-to "out/script/demo.js"}}}
