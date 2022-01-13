@@ -24,4 +24,6 @@ package-lock.json
 .clj-kondo/
 output.calva-repl
 out/
+.workspace
+
 
